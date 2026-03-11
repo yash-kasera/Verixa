@@ -55,6 +55,4 @@ VERIXA is a comprehensive, role-based, secure attendance management system built
    npx expo start
    ```
 
-## License
 
-This project is licensed under the MIT License.
